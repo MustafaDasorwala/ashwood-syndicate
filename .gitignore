@@ -1,0 +1,13 @@
+.DS_Store
+
+# Godot
+.godot/
+.mono/
+bin/
+obj/
+
+# gdUnit4 test reports
+reports/
+
+# Claude Code local settings
+.claude/settings.local.json
